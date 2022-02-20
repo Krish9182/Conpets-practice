@@ -1,0 +1,24 @@
+/* external css */
+
+/* img {
+    width: 100px;
+    height: 150px;
+} */
+
+/* class */
+.imag_
+{
+    width: 100px;
+    height: 100px;
+}
+
+/*#imag_
+{
+    width: 100px;
+    height: 100px;
+}   for id */
+#unique{
+    width: 100px;
+    height: 50px;  
+    border-radius: 10px;
+}
